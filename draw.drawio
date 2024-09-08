@@ -136,6 +136,12 @@
         <mxCell id="57cuToI_xoXF8MMXr-vU-52" value="3cm" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="326" y="263" width="20" height="20" as="geometry" />
         </mxCell>
+        <mxCell id="57cuToI_xoXF8MMXr-vU-56" value="80cm" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="170" y="375" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="57cuToI_xoXF8MMXr-vU-57" value="180cm" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="390" y="490" width="60" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
